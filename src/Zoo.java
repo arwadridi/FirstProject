@@ -70,7 +70,7 @@ boolean removeAnimal(Animal animal){
         }
         return  false ;
 }
-
+//ffffffff
     public String toString() {
         String ch1 = "", ch2 = "";
         ch1 = "Name: " + name + " ,city:" + city + " ,nbAnimaux:" + nbAnimaux + "\n";
